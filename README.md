@@ -6,14 +6,13 @@ If you find this work useful please cite,
 > here goes the reference to our paper
 
 ## Dependencies
-- here
-- goes
-- the packages
-- and versions
-- used in our code
+- pytorch 2.0.0
+- scikit-learn 1.2.0
+- numpy 1.23.5
+- torchvision 0.15.0
 
 ## License
-$DOC^3$ is open-sourced under the Apache-2.0 license. See the [LICENSE](https://github.com/sauptikdhar/DOC3) file for details.
+$DOC^3$ is open-sourced under the Apache-2.0 license. See the [LICENSE](https://github.com/sauptikdhar/DOC3/blob/main/LICENSE) file for details.
 
 ## Contact
 Bernardo Gonzalez <[bernardo.gtorres@gmail.com](mailto:bernardo.gtorres@gmail.com)>
