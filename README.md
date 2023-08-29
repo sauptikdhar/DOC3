@@ -8,8 +8,9 @@ If you find this work useful please cite,
 ## Dependencies
 - python 3.9.16
 - pytorch 2.0.0
-- scikit-learn 1.2.0
 - numpy 1.23.5
+- matplotlib 3.7.1
+- scikit-learn 1.2.0
 - torchvision 0.15.0
 
 ## License
