@@ -6,6 +6,7 @@ If you find this work useful please cite,
 > here goes the reference to our paper
 
 ## Dependencies
+- python 3.9.16
 - pytorch 2.0.0
 - scikit-learn 1.2.0
 - numpy 1.23.5
